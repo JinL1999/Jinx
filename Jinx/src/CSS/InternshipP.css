@@ -1,0 +1,237 @@
+
+/* title CAREERS -  PATH */
+.title_left{
+
+    width: 100%;
+    background-color : grey;
+    text-align :left;
+    display : inline-block;
+    font-size : 17px;
+    padding-top: 20px;
+    padding-left :230px; 
+}
+
+.title_right{
+
+    width: 100%;
+    background-color : grey;
+    text-align : right;
+    display : block;
+    margin-top: 0px;
+    padding-right: 100px;
+    margin-right:0px;
+    margin-left : 0px;
+    
+}
+
+
+/* FOR INTERNSHIP PROGRAMME & TITLE */
+.mainBody{
+    width : 100%;
+    float :left;
+    
+}
+
+
+/* INTERNSHIP PROGRAMME */
+.TitleImage{
+border :1px solid black;
+margin-left: 0;
+margin-right: 0;
+margin-top :0;
+background-image: url(image/career2.jpg); 
+font-size : 17px;
+padding-left :230px;
+padding-top : 100px;
+padding-bottom : 100px;
+
+}
+
+
+/* DESCRIPTION FOR THE INTERNSHIP */
+.explain{
+
+margin-top : 50px;
+margin-bottom : 30px;
+margin-left : 230px;
+margin-right : 100px;
+padding-left : 0px;
+padding-right : 0px;
+line-height : 1.7;
+text-align : justify;
+
+}
+
+
+/*  "REQUIREMENTS" */
+.req{
+    margin-top : 30px;
+    margin-bottom : 0px;
+    margin-left : 230px;
+    margin-right : 100px;
+    padding-left : 0px;
+    padding-right : 0px;
+
+    font-weight : bold;
+    font-size : 20px;
+
+}
+
+
+/* REQUIREMENTS list */
+.req_list{
+
+    margin-top : 5px;
+    margin-bottom : 30px;
+    margin-left : 230px;
+    margin-right : 100px;
+
+    padding-left : 20px;
+    padding-right : 10px;
+
+    line-height : 2.0;
+    font-size : 20px;
+
+}
+
+
+/* HOW TO APPLY & DESCRIPTION */
+.applyExplain{
+
+    margin-top : 10px;
+    margin-bottom : 30px;
+    margin-left : 230px;
+    margin-right : 100px;
+
+    padding-top : 0px; 
+    padding-left : 0px;
+    padding-right : 0px;
+    font-size : 20px;
+
+}
+
+
+/* RESUME PARENT */
+.Resume{
+
+    margin-top : 10px;
+    margin-bottom : 30px;
+    margin-left : 230px;
+    margin-right : 100px;
+
+    border-style : solid;
+    border-width: 5px;
+    
+    border-color: green;
+    padding : 20px;
+    font-size : 20px;
+}
+
+/* APPLY NOW */
+#applyHere{
+
+    margin-top : 70px;
+    margin-bottom : 30px;
+    margin-left : 230px;
+    margin-right : 100px;
+    font-weight : bold;
+    text-align : center;
+    font-size : 35px;
+
+}
+
+/* INSIDE THE RESUME _ CONTACT DETAILS */
+input[type=text], select {
+    width: 98%;
+
+    padding-left: 12px;
+    padding-right : 12px;
+
+    margin: 15px ;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 30px;
+    font-size : 18px;
+  }
+  
+
+  input[type=email], select {
+    width: 98%;
+
+    padding-left: 12px;
+    padding-right : 12px;
+
+    margin: 15px ;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 30px;
+    font-size : 18px;
+  }
+
+
+/* RESUME TEXT */
+  .apply{
+
+
+    height : 200px;
+    width: 98%;
+
+    padding-left: 12px;
+    padding-right : 12px;
+    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size : 18px;
+
+    text-align : left;
+    margin: 15px;
+
+  }
+
+  /* SUBMIT BUTTON */
+  #applySubmit{
+
+    float : middle;
+    background-color :grey;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left :45%;
+    height : 30%;
+    font-size : 30px;
+    margin-bottom : 10px;
+    padding :5px;
+    color : #fff;
+
+    
+  }
+
+  /* SUBMIT BUTTION EFFECT */
+  #applySubmit:hover{
+
+    background-color : white;
+    color : black;
+
+  }
+
+
+
+/* BOX FOR THE MARGIN */
+  #marginBox{
+
+    margin-top :0px;
+    margin-bottom : 0px;
+    margin-left : 0px;
+    margin-right : 0x;
+
+    height : 200px;
+    width : 100%;
+    background-color : #222629;
+    
+  }
